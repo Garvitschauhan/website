@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/Garvitschauhan/website",
+  "homepage": "https://Garvitschauhan.github.io/website",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{Garvitschauhan}.github.io/{website}'",
+    "build-gh": "parcel build --public-url 'https://Garvitschauhan.github.io/website'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
