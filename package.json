@@ -7,18 +7,18 @@
     "scripts": {
       "start": "parcel",
       "build": "parcel build",
-      "build-gh": "parcel build --public-url 'https://Garvitschauhan.github.io/'",
+      "build-gh": "parcel build --public-url 'https://Garvitschauhan.github.io/website'",
       "predeploy": "npm run build-gh",
       "deploy": "gh-pages -d dist"
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+      "url": "git+https://github.com/Garvitschauhan/website"
     },
     "author": "Microsoft",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+      "url": "https://github.com/Garvitschauhan/website"
     },
     "dependencies": {
       "react": "^18.2.0",
