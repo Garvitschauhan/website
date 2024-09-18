@@ -2,7 +2,7 @@
     "name": "website",
     "version": "1.0.0",
     "description": "Educator JS Codespace Template",
-    "source": "index.html",
+    "source": "Index.html",
     "homepage": "https://Garvitschauhan.github.io/website",
     "scripts": {
       "start": "parcel",
