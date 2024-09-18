@@ -1,8 +1,8 @@
 {
   "name": "website",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
-  "source": "index.html",
+  "description": "Garvit Singh Chauhan's personal website",
+  "source": "src/index.html",
   "homepage": "https://Garvitschauhan.github.io/website",
   "scripts": {
     "start": "parcel",
