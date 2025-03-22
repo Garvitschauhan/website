@@ -2,7 +2,7 @@
     "name": "website",
     "version": "1.0.0",
     "description": "Garvit Singh Chauhan's personal website",
-    "source": "src/index.html",
+    "source": "src/index.js",
     "homepage": "https://Garvitschauhan.github.io/website",
     "scripts": {
       "start": "parcel",
