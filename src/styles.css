@@ -94,7 +94,7 @@ li::marker {
 }
 
 a {
-  color: black;
+  color: rgb(200, 191, 191);
   text-decoration: none;
 }
 
